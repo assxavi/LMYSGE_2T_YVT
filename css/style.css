@@ -12,7 +12,7 @@
 body {
     background-image: url(../img/fondo2.jpg);
     background-size: cover;
-    margin: auto;
+    background-attachment: fixed;  /*mantiene la imagen de fondo fija */
    
 
 }
